@@ -1,0 +1,1 @@
+(theme-park-mode :repo "darrik/theme-park-mode" :fetcher github)
